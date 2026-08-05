@@ -4,6 +4,10 @@ Instructions for AI coding assistants and developers working on the hermes-agent
 
 **Never give up on the right solution.**
 
+For a concise architecture map, runtime flows, key entry points, risk areas,
+and task-specific reading order, see [`docs/codebase-overview.md`](docs/codebase-overview.md).
+This guide remains authoritative if the overview and the implementation differ.
+
 ## What Hermes Is
 
 Hermes is a personal AI agent that runs the same agent core across a CLI, a
